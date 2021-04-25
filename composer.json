@@ -1,6 +1,6 @@
 {
-    "name": "kingkernel/mathree",
-    "description": "Marrento versão 3 - codiname yusuke urameshi",
+    "name": "kingkernel/route",
+    "description": "Classe de rotas",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
