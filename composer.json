@@ -7,9 +7,7 @@
     "require": {},
     "autoload": {
             "psr-4": {
-                "kingkernel\\": "kingkernel/",
-                "Vendor\\Namespace\\": "src/",
-                "Vendor_Namespace_": "src/"
+                "kingkernel\\": "kingkernel/"
             }
         }
 }
