@@ -1,13 +1,19 @@
 {
-    "name": "kingkernel/route",
-    "description": "Classe de rotas",
-    "type": "project",
+    "name": "kingkernel/mathree",
+    "description": "biblioteca de rotas",
+    "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Nome do autor",
+            "email": "email@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
             "psr-4": {
-                "kingkernel\\": "kingkernel/"
+                "kingkernel\\route\\": "kingkernel/route/"
             }
         }
 }
