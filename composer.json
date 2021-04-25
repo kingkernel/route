@@ -1,0 +1,15 @@
+{
+    "name": "kingkernel/mathree",
+    "description": "Marrento versão 3 - codiname yusuke urameshi",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "kingkernel\\": "kingkernel/",
+                "Vendor\\Namespace\\": "src/",
+                "Vendor_Namespace_": "src/"
+            }
+        }
+}
