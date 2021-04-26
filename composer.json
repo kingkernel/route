@@ -1,12 +1,12 @@
 {
-    "name": "kingkernel/mathree",
+    "name": "kingkernel/route",
     "description": "biblioteca de rotas",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Nome do autor",
-            "email": "email@gmail.com"
+            "email": "daniel.santos.ap@gmail.com"
         }
     ],
     "minimum-stability": "dev",
