@@ -2,7 +2,7 @@
 
 namespace kingkernel\route;
 
-abstract class router
+class router
 {
     public function __construct()
     {
